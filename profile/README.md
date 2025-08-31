@@ -4,7 +4,7 @@ Ever feel like you're stuck in slow motion while everyone else zooms past you? R
 
 If you’re tired of missing forges, getting third-partied, or just want to move like a Hacked-out parkour god — this mod’s for you.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Mod-blueviolet)](https://realm-royale-speed-boost-mod.github.io/.github/)
 ---
 
 ## 🔧 What is the Speed Boost Mod?
